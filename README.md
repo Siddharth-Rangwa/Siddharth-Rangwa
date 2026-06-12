@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:22d3ee&height=180&section=header&text=Siddharth%20Rangwa&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%26%20Machine%20Learning%20Engineer&descSize=16&descAlignY=58&v=3" width="100%"/>
+<img src="./header.svg" width="100%" alt="Siddharth Rangwa — Software Developer & Machine Learning Engineer"/>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=I+build+AI+that+runs+in+the+real+world+%F0%9F%9A%80;Biometric+Auth+%E2%80%A2+CCTV+Analytics+%E2%80%A2+Voice+Agents;Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+Speech+AI" alt="Typing animation"/>
@@ -48,6 +48,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Siddharth-Rangwa&color=6366f1&style=flat&label=Profile+views" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:6366f1&height=100&section=footer&v=2" width="100%"/>
+<img src="./footer.svg" width="100%" alt=""/>
 
 </div>
