@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,docker,kubernetes,mysql,gcp,git,linux&perline=6" alt="Tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,tensorflow,pytorch,opencv,flask,fastapi,docker,kubernetes,mysql,postgresql,gcp,git,linux&perline=6" alt="Tech stack icons"/>
 
 <br/><br/>
 
