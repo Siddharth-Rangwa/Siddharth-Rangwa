@@ -20,7 +20,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,tensorflow,pytorch,opencv,flask,fastapi,docker,kubernetes,mysql,postgresql,gcp,git,linux&perline=6" alt="Tech stack icons"/>
+<!-- <img src="https://skillicons.dev/icons?i=python,js,html,css,tensorflow,pytorch,opencv,flask,fastapi,docker,kubernetes,mysql,postgresql,gcp,git,linux&perline=6" alt="Tech stack icons"/>-->
+<img src="https://skillicons.dev/icons?i=python,js,html,css,django,tensorflow,sklearn,selenium,pytorch,opencv,ai,flask,fastapi,docker,kubernetes,latex,mysql,sqlite,postgres,gcp,git,postman,powershell,linux,bash" alt="Tech stack icons"/>
 
 <br/><br/>
 
