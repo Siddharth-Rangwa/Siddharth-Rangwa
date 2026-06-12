@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Siddharth Rangwa — Software Developer & Machine Learning Engineer"/>
+# Hi 👋, I'm Siddharth Rangwa
 
+### 🧑‍💻 Software Developer & Machine Learning Engineer · Noida, India
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=I+build+AI+that+runs+in+the+real+world+%F0%9F%9A%80;Biometric+Auth+%E2%80%A2+CCTV+Analytics+%E2%80%A2+Voice+Agents;Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+Speech+AI" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=I+build+AI+that+runs+in+the+real+world+%F0%9F%9A%80;Biometric+Auth+%E2%80%A2+CCTV+Analytics+%E2%80%A2+Voice+Agents;Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+Speech+AI" alt="Typing animation"/>
 
 </div>
 
 ## 💡 About Me
 
-- 🚀 I love building AI products that people actually use — voice agents, computer vision systems, and biometric authentication
-- 🧠 Working hands-on with **LLMs, AI agents, and real-time vision** in production at XS Infosol
-- ⚡ I enjoy the full journey: idea → data → model → fast, scalable API → live system
-- 🌱 Currently exploring **RAG systems, multi-agent workflows, and edge AI**
-- 💬 Ask me about object detection, speech AI (STT/TTS), or shipping ML models to production
+- I love building AI products that people actually use — voice agents, computer vision systems, and biometric authentication
+- Working hands-on with **LLMs, AI agents, and real-time vision** in production at XS Infosol
+- I enjoy the full journey: idea → data → model → fast, scalable API → live system
+- Currently exploring **RAG systems, multi-agent workflows, and edge AI**
+- Ask me about object detection, speech AI (STT/TTS), or shipping ML models to production
 
 ## 🛠️ Tech I work with
 
@@ -41,13 +42,14 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://siddharthrangwa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-rangwa)
-[![Resume](https://img.shields.io/badge/📄_Resume-8B5CF6?style=for-the-badge&logoColor=white)](https://siddharthrangwa.netlify.app/assets/resume/Siddharth_Rangwa_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddrang221@gmail.com)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Siddharth-Rangwa&color=6366f1&style=flat&label=Profile+views" alt="Profile views"/>
 
-<img src="./footer.svg" width="100%" alt=""/>
+<br/><br/>
+
+⭐ *"Ship it, then make it better."*
 
 </div>
