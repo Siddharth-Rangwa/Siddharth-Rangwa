@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-Rangwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6d28d9&point=a78bfa&area=true&area_color=2e1065&custom_title=Avinash's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-Rangwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6d28d9&point=a78bfa&area=true&area_color=2e1065&custom_title=Siddharth's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
 
 </div>
 
@@ -81,3 +81,54 @@
 ⭐ *"Ship it, then make it better."*
 
 </div>
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yadavinash123/Siddharth-Rangwa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+<details>
+<summary>⚙️ <b>How to enable the Snake animation (click to expand)</b></summary>
+
+<br/>
+
+Create this file in your profile repo: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:        # allows manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Settings → Actions → General → Workflow permissions** and enable **"Read and write permissions"**.
+
+</details>
+
+<br/>
+
