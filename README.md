@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yadavinash123/Siddharth-Rangwa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Siddharth-Rangwa/Siddharth-Rangwa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
