@@ -29,6 +29,33 @@
 
 </div>
 
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-Rangwa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6d28d9&point=a78bfa&area=true&area_color=2e1065&custom_title=Avinash's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddharth-Rangwa&theme=tokyonight" width="98%" alt="Profile Summary"/>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────  Animated Divider  ───────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+
+
 ## 📜 Certifications
 
 ![IBM](https://img.shields.io/badge/Generative_AI-IBM_SkillsBuild-052FAD?style=flat&logo=ibm&logoColor=white)
